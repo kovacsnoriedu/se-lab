@@ -36,6 +36,7 @@ public class TorpedoStore {
     boolean success = false;
 
     // simulate random overheating of the launcher bay which prevents firing
+    // valami van a levegoben
     
     double r = generator.nextDouble();
 
